@@ -1,8 +1,8 @@
 ## Face Recognition Sample
 
-Using Python3.8 and [face_recognition](https://github.com/ageitgey/face_recognition)
+Using Python 3.8 and [face_recognition](https://github.com/ageitgey/face_recognition)
 
-### Install and Prepare Environment
+### Install and Prepare Environment (Linux)
 
 ```
 sh environment_setup.sh
